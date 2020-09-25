@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8592c81b-ef26-4332-bbd2-7ada912e1f46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1eX9Dr21pEPKVLi0Z7X1EKbArsd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\26301\Desktop\TheSummer\admin\index" />
+      <recent name="C:\Users\26301\Desktop\TheSummer\css" />
+      <recent name="C:\Users\26301\Desktop\TheSummer\js" />
+      <recent name="C:\Users\26301\Desktop\TheSummer" />
+      <recent name="C:\Users\26301\Desktop\TheSummer\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\26301\Desktop\TheSummer\admin\indexman" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.logregfor.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TheSummer/admin/index/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="indexman.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TheSummer/admin/indexman/indexman.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="logregfor.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TheSummer/logregfor.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="welcome.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TheSummer/admin/index/welcome.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.logregfor.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="JavaScript Debug.welcome.php" />
+        <item itemvalue="JavaScript Debug.indexman.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8592c81b-ef26-4332-bbd2-7ada912e1f46" name="Default Changelist" comment="" />
+      <created>1594456953523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594456953523</updated>
+      <workItem from="1594456958421" duration="17345000" />
+      <workItem from="1594539004032" duration="108438000" />
+      <workItem from="1594902980386" duration="2913000" />
+      <workItem from="1598885167702" duration="163000" />
+      <workItem from="1600253690585" duration="540000" />
+      <workItem from="1600263343733" duration="125000" />
+      <workItem from="1600576542055" duration="4270000" />
+      <workItem from="1600685971052" duration="1200000" />
+      <workItem from="1600777158815" duration="3352000" />
+      <workItem from="1600846582008" duration="121000" />
+      <workItem from="1600851806659" duration="7842000" />
+      <workItem from="1600904267617" duration="6464000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="5" key="#PHP" timestamp="1594457003019">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="452" y="5" key="#PHP/0.0.1536.834@0.0.1536.834" timestamp="1594457003019" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594724566642">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1594724566642" />
+    <state width="746" height="186" key="GridCell.Tab.0.bottom" timestamp="1594902818930">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594902818930" />
+    <state width="746" height="186" key="GridCell.Tab.0.center" timestamp="1594902818920">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1594902818920" />
+    <state width="746" height="186" key="GridCell.Tab.0.left" timestamp="1594902818912">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1594902818912" />
+    <state width="746" height="186" key="GridCell.Tab.0.right" timestamp="1594902818925">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1594902818925" />
+    <state width="746" height="186" key="GridCell.Tab.1.bottom" timestamp="1594902818954">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594902818954" />
+    <state width="746" height="186" key="GridCell.Tab.1.center" timestamp="1594902818945">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1594902818945" />
+    <state width="746" height="186" key="GridCell.Tab.1.left" timestamp="1594902818937">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1594902818937" />
+    <state width="746" height="186" key="GridCell.Tab.1.right" timestamp="1594902818950">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1594902818950" />
+    <state width="746" height="186" key="GridCell.Tab.2.bottom" timestamp="1594902818976">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1594902818976" />
+    <state width="746" height="186" key="GridCell.Tab.2.center" timestamp="1594902818968">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1594902818968" />
+    <state width="746" height="186" key="GridCell.Tab.2.left" timestamp="1594902818963">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1594902818963" />
+    <state width="746" height="186" key="GridCell.Tab.2.right" timestamp="1594902818972">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="186" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1594902818972" />
+    <state x="599" y="340" key="NewPhpFileDialog" timestamp="1594824577622">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="340" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1594824577622" />
+    <state x="270" y="59" key="SettingsEditor" timestamp="1600263470320">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1600263470320" />
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1600904263448">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1600904263448" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1594823844495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1594823844495" />
+  </component>
+</project>
